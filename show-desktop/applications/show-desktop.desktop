@@ -1,9 +1,9 @@
 [Desktop Entry]
-Name=Show Desktop
-GenericName=Show Desktop
+Name=Show Desktop on ElementaryOS
+GenericName=Show Desktop on ElementaryOS
 Comment=Minimize or maximize all windows
 Categories=Utility
-Exec=show-desktop
+Exec=show-desktop-freya
 StartupNotify=false
 Icon=show-desktop
 Terminal=false
