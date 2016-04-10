@@ -9,4 +9,3 @@ Icon=show-desktop
 Terminal=false
 Type=Application
 NoDisplay=true
-X-Ubuntu-Gettext-Domain=FIXME
